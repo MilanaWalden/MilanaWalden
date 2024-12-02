@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# Nombre: Mila
+
+Hola, como estas?
+Estudio en Munich y hago mi erasmus en Madrid.
+
 <!--
 **MilanaWalden/MilanaWalden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
