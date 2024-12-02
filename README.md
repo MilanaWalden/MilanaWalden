@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Nombre: Mila
+# Master Software
 
 Hola, como estas?
 Estudio en Munich y hago mi erasmus en Madrid.
